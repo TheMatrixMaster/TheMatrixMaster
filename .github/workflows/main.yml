@@ -28,9 +28,9 @@ jobs:
           user: TheMatrixMaster
           template: classic
           base: header, activity, repositories
-          base_indepth: no
           commits_authoring: stephen@heroai.ca, TheMatrixMaster, stephen.lu.2002@gmail.com, slu13243546@gmail.com, Stephen Lu
-          config_display: columns
+          config_display: regular
+          config_order: base.header, isocalendar
           config_timezone: America/Toronto
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -57,8 +57,7 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base, repositories
           plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_repositories: yes
+          plugin_notable_from: all
           plugin_notable_types: commit, pull_request
           repositories_affiliations: organization_member, owner, collaborator
           repositories_batch: 100
