@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1100,7 +1100,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            3553 Commits
+                            3554 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1208,7 +1208,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.51m added, 2.64m removed
+                                    11m added, 9.03m removed
                                 </div>
                             </section>
                             <section>
@@ -1254,6 +1254,12 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">NTX-McGill/NeuroTechX-McGill-2021</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">TheFloatingString/crime-prediction</span>
                         </div>
                         <div class="field">
@@ -1268,14 +1274,20 @@
                             </svg>
                             <span class="diff-handle">HeroAI-Team/web-app</span>
                         </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">HeroAI-Team/beacon-app</span>
-                        </div>
                     </section>
                     <section>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +6.68m</span>
+                                <span class="deleted"> -6.63m</span>
+                            </div>
+                            <span> </span>
+                        </div>
                         <div class="field">
                             <div class="diff-box added"></div>
                             <div class="diff-box added"></div>
@@ -1309,18 +1321,6 @@
                             <div class="diff-stats">
                                 <span class="added">  +450k</span>
                                 <span class="deleted">  -280k</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added">  +322k</span>
-                                <span class="deleted">  -300k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -1444,12 +1444,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="196.05404767834744" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="196.05404767834744" y="0" width="105.56060007162" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="301.61464774996745" y="0" width="68.90578805704133" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="370.5204358070088" y="0" width="48.90191675285791" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="419.42235255986674" y="0" width="23.34548359941248" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="442.76783615927917" y="0" width="17.23216384072082" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.80786353536448" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="195.80786353536448" y="0" width="105.42804812398548" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="301.23591165934994" y="0" width="68.84828262690652" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="370.08419428625643" y="0" width="48.84051084663669" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="418.92470513289317" y="0" width="23.864769373245526" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="442.7894745061387" y="0" width="17.210525493861336" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
