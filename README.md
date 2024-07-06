@@ -1,6 +1,6 @@
 ## Hey there! I'm Stephen
 
-I am a third year undergraduate student in computer science and biology at **[McGill University](https://www.mcgill.ca/)**.
+I am a final year undergraduate student in computer science and biology at **[McGill University](https://www.mcgill.ca/)**.
 
 I enjoy spending my time coding, songwriting, hiking, and sharing my thoughts through my **[blog](https://matrixmaster.me/blog)**.
 
